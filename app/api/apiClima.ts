@@ -1,5 +1,3 @@
-
-
 export interface WeatherData {
     date: string;
     day: string;
