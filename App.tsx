@@ -1,4 +1,4 @@
-// App.tsx
+
 import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, FlatList, ActivityIndicator, Text } from 'react-native';
 import WeatherCard from './app/controles/consultaApi';

@@ -1,4 +1,4 @@
-// app/api/weatherApi.ts
+
 
 export interface WeatherData {
     date: string;
